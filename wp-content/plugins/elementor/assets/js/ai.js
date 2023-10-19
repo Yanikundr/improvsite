@@ -38949,7 +38949,7 @@ function getPathFromURLPosix(url) {
   if (url.hostname !== '') {
     /** @type {NodeJS.ErrnoException} */
     const error = new TypeError(
-      'File URL host must be "localhost" or empty on darwin'
+      'File URL host must be "yanikundr.github.io" or empty on darwin'
     )
     error.code = 'ERR_INVALID_FILE_URL_HOST'
     throw error
