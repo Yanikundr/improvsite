@@ -239,7 +239,7 @@ a.button.button_green{background-color:#88be4c;color:#fff}
 
 /* Icons */
 
-@font-face{font-family:'mfn-icons';src:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.eot?31690507);src:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.eot?31690507#iefix) format("embedded-opentype"),url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.woff?31690507) format("woff"),url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.ttf?31690507) format("truetype"),url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.svg?31690507#mfn) format("svg");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'mfn-icons';src:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.eot?31690507);src:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.eot?31690507#iefix) format("embedded-opentype"),url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.woff?31690507) format("woff"),url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.ttf?31690507) format("truetype"),url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/fonts/mfn/icons.svg?31690507#mfn) format("svg");font-weight:400;font-style:normal;font-display:swap}
 [class^="icon-"]:before,[class*=" icon-"]:before{font-family:"mfn-icons";font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:none!important;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em}
 
 .icon-acrobat:before{content:'\e800'}.icon-address:before{content:'\e801'}.icon-adjust:before{content:'\e802'}.icon-aim:before{content:'\e803'}.icon-air:before{content:'\e804'}.icon-alert:before{content:'\e805'}.icon-amazon:before{content:'\e806'}.icon-android:before{content:'\e807'}.icon-angellist:before{content:'\e808'}
@@ -291,7 +291,7 @@ a.button.button_green{background-color:#88be4c;color:#fff}
 .icon-smashing:before{content:'\f357'}.icon-db-shape:before{content:'\f600'}.icon-sweden:before{content:'\f601'}.icon-logo-db:before{content:'\f603'}.icon-houzz:before{content:'\f27c'}.icon-snapchat:before{content:'\f2ac'}
 
 /* Admin bar Live Builder link */
-#wp-admin-bar-mfn-live-builder .ab-item:before{content:"";background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/muffin-options/svg/be-mono.svg)!important;background-size:17px;background-repeat:no-repeat;background-position:left center;height:100%;padding:0 0 0 17px}
+#wp-admin-bar-mfn-live-builder .ab-item:before{content:"";background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/muffin-options/svg/be-mono.svg)!important;background-size:17px;background-repeat:no-repeat;background-position:left center;height:100%;padding:0 0 0 17px}
 
 /* bbPress */
 
@@ -534,8 +534,8 @@ a.tribe-events-ical{margin-top:0}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dt{clear:left;font-weight:700;line-height:inherit}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dd{float:inherit;line-height:inherit;list-style:none outside none;margin:0 0 0 110px;padding:10px 0}
 .single-tribe_events #tribe-events-content .tribe-events-event-meta dd:after{display:none}
-#tribe-bar-form{background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png)}
-.tribe-events-back{padding:15px 10px;margin-bottom:20px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png);box-sizing:border-box;overflow:hidden}
+#tribe-bar-form{background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png)}
+.tribe-events-back{padding:15px 10px;margin-bottom:20px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png);box-sizing:border-box;overflow:hidden}
 ul.tribe-events-sub-nav a,.tribe-events-back a{font-size:14px;font-weight:400}
 .tribe-events-event-image{border:8px solid #f8f8f8;box-sizing:border-box;display:block;line-height:0}
 .tribe-events-list-widget ol{padding:10px 0 0 30px}
@@ -836,7 +836,7 @@ body.admin-bar{position:relative}
 .page.hide-title-area #Content,.no-content-padding #Content,.template-blank #Content,.under-construction #Content{padding:0!important}
 .with_aside.page.hide-title-area .sections_group,.with_aside.no-content-padding .sections_group{padding:0!important}
 .under-construction .section-uc-1{padding-top:40px;background-color:#fff}
-.under-construction .section-uc-2{padding-top:40px;background-color:#f5f5f5;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png) repeat center}
+.under-construction .section-uc-2{padding-top:40px;background-color:#f5f5f5;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png) repeat center}
 .under-construction .section-uc-3{padding-top:40px}
 .under-construction .section-border-top{border-top:1px solid rgba(0,0,0,0.08)}
 
@@ -903,7 +903,7 @@ body.admin-bar{position:relative}
 
 .pager_wrapper{margin-bottom:0}
 .pager{text-align:center}
-.pager .pages{display:inline-block;margin:20px 30px 0;padding:4px 3px;-webkit-border-radius:5px;border-radius:5px;background-color:#f8f8f8;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
+.pager .pages{display:inline-block;margin:20px 30px 0;padding:4px 3px;-webkit-border-radius:5px;border-radius:5px;background-color:#f8f8f8;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
 .pager .pages a,.pager .pages span.page-numbers{display:inline-block;margin:0 1px;width:35px;height:35px;line-height:35px;text-align:center;-webkit-border-radius:5px;border-radius:5px}
 .pager .pages a:hover{text-decoration:none}
 .pager .pages a:hover,.pager .pages a.active,.pager .pages span.page-numbers.current{color:#fff}
@@ -915,7 +915,7 @@ body.admin-bar{position:relative}
 
 /* Load more button */
 
-.pager_lm{background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/preloader.gif) no-repeat center 17px;text-align:center}
+.pager_lm{background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/preloader.gif) no-repeat center 17px;text-align:center}
 .pager_lm .pager_load_more{margin:20px 0}
 .pager_lm.loading{min-height:49px}
 .pager_lm:not(.loading){background:none}
@@ -1004,7 +1004,7 @@ body.admin-bar{position:relative}
 /* Filters */
 
 #Filters .mcb-column-inner{margin-bottom:30px}
-#Filters .filters_buttons{padding:15px;margin:0;font-size:100%;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
+#Filters .filters_buttons{padding:15px;margin:0;font-size:100%;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
 #Filters .filters_buttons li{float:left;margin:0 15px 0 0;list-style:none}
 #Filters .filters_buttons li.categories i,#Filters .filters_buttons li.tags i{margin-right:3px}
 #Filters .filters_buttons li.reset{float:right;margin-right:0}
@@ -1318,7 +1318,7 @@ body.header-below:not(.template-slider) #Header{min-height:0}
 #Top_bar.is-sticky .menu_wrapper .menu.page-menu > li > a {margin:0;padding-left:20px;padding-right:20px;}
 
 /* 2nd level */
-#Top_bar .menu li ul{position:absolute;left:0;top:100%;z-index:205;margin:0;display:none;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/box_shadow.png);background-repeat:repeat-x;background-position:left top}
+#Top_bar .menu li ul{position:absolute;left:0;top:100%;z-index:205;margin:0;display:none;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/box_shadow.png);background-repeat:repeat-x;background-position:left top}
 #Top_bar .menu li > ul{box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03);-webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03)}
 #Top_bar .menu li ul li{padding:0;width:200px;position:relative;font-weight:400}
 #Top_bar .menu li ul li a{padding:10px 20px;display:block;border-bottom:1px solid rgba(0,0,0,0.05)}
@@ -1885,7 +1885,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 		.masonry.tiles{position:relative}
 		.masonry.tiles .post-item{margin:0!important;overflow:hidden;background-color:transparent}
 		.masonry.tiles .post-item:not(.no-img) .post-desc-wrapper{position:absolute;z-index:4;left:0;bottom:-20px}
-		.masonry.tiles .post-item:not(.no-img) .post-desc-wrapper .post-desc{background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/blog_masonry_tile_gradient.png) top left repeat-x;padding:70px 30px 30px}
+		.masonry.tiles .post-item:not(.no-img) .post-desc-wrapper .post-desc{background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/blog_masonry_tile_gradient.png) top left repeat-x;padding:70px 30px 30px}
 		.masonry.tiles .post-item .post-desc-wrapper .post-desc{padding:50% 30px 10px}
 		.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-meta .author-date .post-links{display:inline-block;margin-left:10px}
 		.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-excerpt{display:none}
@@ -1934,7 +1934,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 			.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-head .post-meta,.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-head .post-meta a,.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-excerpt{color:rgba(255,255,255,.7)}
 
 		/* Timeline */
-		.timeline .post-item{float:none;width:auto;padding-left:200px;margin-bottom:0;padding-bottom:40px;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_right.png) no-repeat 90px top}
+		.timeline .post-item{float:none;width:auto;padding-left:200px;margin-bottom:0;padding-bottom:40px;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_right.png) no-repeat 90px top}
 		.timeline .post-item:last-child{padding-bottom:20px;margin-bottom:20px}
 		.timeline .format-quote .post-meta,.timeline .format-link .post-meta{padding-top:7px}
 		.timeline .post-item:before{content:"";width:7px;height:7px;box-sizing:content-box;border-width:4px;border-style:solid;-webkit-border-radius:100%;border-radius:100%;position:absolute;left:126px;top:11px;display:block;visibility:visible;z-index:1}
@@ -2034,7 +2034,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 	.format-link .post-title .link-wrapper h4{margin-bottom:7px;font-size:20px;line-height:22px}
 
 /* Single Post ----------------------------------------------------------------------- */
-.post-nav{padding:10px 15px 4px 130px;margin-bottom:20px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
+.post-nav{padding:10px 15px 4px 130px;margin-bottom:20px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_5_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:hidden}
 .post-nav .next-prev-nav{float:left}
 .post-nav .next-prev-nav li{float:left;margin-right:5px}
 .post-nav .next-prev-nav a.button{margin:0}
@@ -2306,7 +2306,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 
 	/* Recent comments */
 	.widget_mfn_recent_comments ul{margin:0!important}
-	.widget_mfn_recent_comments ul li{padding-bottom:15px;margin-bottom:0!important;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative;list-style:none!important}
+	.widget_mfn_recent_comments ul li{padding-bottom:15px;margin-bottom:0!important;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative;list-style:none!important}
 	.widget_mfn_recent_comments ul li:last-child{padding-bottom:5px}
 	.widget_mfn_recent_comments ul li .date_label{background-color:rgba(0,0,0,.03);margin-top:7px;margin-bottom:5px;position:relative}
 	.widget_mfn_recent_comments ul li .date_label:after{border-left-color:rgba(0,0,0,.03)}
@@ -2314,7 +2314,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 	.widget_mfn_recent_comments ul li p{margin-bottom:0}
 
 	/* Recent comments wordpress */
-	.widget_recent_comments ul li{padding-bottom:5px;padding-top:6px;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative}
+	.widget_recent_comments ul li{padding-bottom:5px;padding-top:6px;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/recent_comments.png) no-repeat 4px top;padding-left:40px;position:relative}
 	.widget_recent_comments ul li:last-child{padding-bottom:5px}
 	.widget_recent_comments ul li:after{content:"";width:7px;height:7px;border-width:4px;border-style:solid;-webkit-border-radius:100%;border-radius:100%;position:absolute;left:0;top:11px;display:block;z-index:1}
 
@@ -2702,7 +2702,7 @@ body.mobile-side-slide{position:relative;overflow-x:visible;}
 /* #comments .commentlist > li .comment-meta a.comment-edit-link{float:right;padding-right:52px;position:relative;top:-19px} */
 #comments .commentlist > li p{margin:4px 0 10px}
 #comments .commentlist > li .reply{position:absolute;right:20px;top:20px}
-#comments .commentlist > li .reply a.comment-reply-link{font-size:11px;color:#fff;padding:3px 6px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:3px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
+#comments .commentlist > li .reply a.comment-reply-link{font-size:11px;color:#fff;padding:3px 6px;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:3px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
 #comments .commentlist > li .reply a:hover.comment-reply-link{text-decoration:none}
 #comments .commentlist li .comment-body.lastBorder{border-bottom:0}
 #comments .commentlist .children{margin-bottom:0;margin-left:30px;padding-left:50px}
@@ -2755,7 +2755,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 /* Video Section --------------------------------------------------------------------- */
 .section.has-video{position:relative;overflow:hidden}
 .section.has-video .section_video{position:absolute;top:0;left:0;min-height:100%;min-width:100%;overflow:hidden}
-.section.has-video .section_video .mask{position:absolute;top:0;left:0;height:100%;width:100%;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/videomask.png) repeat center}
+.section.has-video .section_video .mask{position:absolute;top:0;left:0;height:100%;width:100%;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/videomask.png) repeat center}
 .section.has-video .section_video video{position:absolute;top:0;left:0;min-height:100%;min-width:100%}
 .section.has-video .section_wrapper{position:relative}
 @media only screen and (max-device-width:959px) {
@@ -2781,7 +2781,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 .dark .column a{color:rgba(255,255,255,.66)}
 
 /* Blockquote */
-.dark blockquote{background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/textline_dark.png)}
+.dark blockquote{background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/textline_dark.png)}
 .dark blockquote:after{color:rgba(255,255,255,.1)}
 
 /* Headings font */
@@ -2853,7 +2853,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 .dark .call_to_action .call_center a{color:#fff}
 
 /* Fancy heading */
-.dark .fancy_heading_line{background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/fancy_heading_hr_dark.png)}
+.dark .fancy_heading_line{background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/fancy_heading_hr_dark.png)}
 
 /* Content slider */
 .dark .content_slider.flat a.button .button_icon i{color:#fff}
@@ -2872,7 +2872,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 
 /* dropcap */
 
-.dropcap{display:inline-block;float:left;width:35px;height:35px;line-height:35px;font-size:20px;margin:0 10px 5px 0;text-align:center;-webkit-border-radius:5px;border-radius:5px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
+.dropcap{display:inline-block;float:left;width:35px;height:35px;line-height:35px;font-size:20px;margin:0 10px 5px 0;text-align:center;-webkit-border-radius:5px;border-radius:5px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
 .dropcap_circle{-webkit-border-radius:100%;border-radius:100%}
 .dropcap.transparent{background:none!important}
 .dropcap.size-2{width:50px;height:50px;line-height:50px;font-size:35px}
@@ -2880,7 +2880,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 
 /* highlight */
 
-.highlight{padding:1px 7px;-webkit-border-radius:3px;border-radius:3px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
+.highlight{padding:1px 7px;-webkit-border-radius:3px;border-radius:3px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
 .highlight.highlight_image{padding:0 2px 7px}
 
   /* Highlight underline */
@@ -2944,7 +2944,7 @@ body.error404:not(.events-archive) #Content{padding:0!important}
 
 /* blockquote */
 
-blockquote{font-size:17px;line-height:31px;display:block;height:auto;margin:0 0 35px 25px;top:15px;position:relative;/*background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/textline.png) repeat-y;*/}
+blockquote{font-size:17px;line-height:31px;display:block;height:auto;margin:0 0 35px 25px;top:15px;position:relative;/*background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/textline.png) repeat-y;*/}
 blockquote:before{content:""}
 .blockquote { position: relative; }
 .blockquote .mfn-blockquote-icon{ display:block;font-size:65px;position:absolute;left: 25px; top: 25px; transform: translate(-50%,-50%); color:rgba(0,0,0,.1)}
@@ -3214,39 +3214,39 @@ body:not(.style-simple) .blockquote blockquote { text-decoration: underline; tex
 
 .image_frame.mfn-mask-shape.circle img,
 .content_video.mfn-mask-shape.circle iframe,
-.content_video.mfn-mask-shape.circle video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/circle.svg)!important}
+.content_video.mfn-mask-shape.circle video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/circle.svg)!important}
 
 .image_frame.mfn-mask-shape.blob img,
 .content_video.mfn-mask-shape.blob iframe,
-.content_video.mfn-mask-shape.blob video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/blob.svg)!important}
+.content_video.mfn-mask-shape.blob video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/blob.svg)!important}
 
 .image_frame.mfn-mask-shape.blob-2 img,
 .content_video.mfn-mask-shape.blob-2 iframe,
-.content_video.mfn-mask-shape.blob-2 video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/blob-2.svg)!important}
+.content_video.mfn-mask-shape.blob-2 video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/blob-2.svg)!important}
 
 .image_frame.mfn-mask-shape.brush img,
 .content_video.mfn-mask-shape.brush iframe,
-.content_video.mfn-mask-shape.brush video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/brush.svg)!important}
+.content_video.mfn-mask-shape.brush video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/brush.svg)!important}
 
 .image_frame.mfn-mask-shape.brush-2 img,
 .content_video.mfn-mask-shape.brush-2 iframe,
-.content_video.mfn-mask-shape.brush-2 video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/brush-2.svg)!important}
+.content_video.mfn-mask-shape.brush-2 video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/brush-2.svg)!important}
 
 .image_frame.mfn-mask-shape.cross img,
 .content_video.mfn-mask-shape.cross iframe,
-.content_video.mfn-mask-shape.cross video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/cross.svg)!important}
+.content_video.mfn-mask-shape.cross video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/cross.svg)!important}
 
 .image_frame.mfn-mask-shape.stain img,
 .content_video.mfn-mask-shape.stain iframe,
-.content_video.mfn-mask-shape.stain video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/stain.svg)!important}
+.content_video.mfn-mask-shape.stain video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/stain.svg)!important}
 
 .image_frame.mfn-mask-shape.triangle img,
 .content_video.mfn-mask-shape.triangle iframe,
-.content_video.mfn-mask-shape.triangle video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/triangle.svg)!important}
+.content_video.mfn-mask-shape.triangle video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/triangle.svg)!important}
 
 .image_frame.mfn-mask-shape.irregular-circle img,
 .content_video.mfn-mask-shape.irregular-circle iframe,
-.content_video.mfn-mask-shape.irregular-circle video{-webkit-mask-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/irregular-circle.svg)!important}
+.content_video.mfn-mask-shape.irregular-circle video{-webkit-mask-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/mask_shapes/irregular-circle.svg)!important}
 
 /* gallery */
 
@@ -3632,10 +3632,10 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 .list_item .list_image{box-sizing:unset;font-size:0}
 .list_item .list_left img{max-width:80px!important;max-height:80px!important;vertical-align:middle}
 .list_item .list_left i:before{margin:0}
-.list_item .circle{display:flex;justify-content:center;align-items:center;width:78px;height:78px;border-width:1px;border-style:solid;font-size:20px;font-weight:700;overflow:hidden;text-align:center;float:left;-webkit-border-radius:100%;border-radius:100%;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08);box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08)}
+.list_item .circle{display:flex;justify-content:center;align-items:center;width:78px;height:78px;border-width:1px;border-style:solid;font-size:20px;font-weight:700;overflow:hidden;text-align:center;float:left;-webkit-border-radius:100%;border-radius:100%;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08);box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08)}
 .list_item .list_right{padding:5px 0 0;margin-left:100px;word-wrap:break-word}
 .list_item .list_right h4{margin-bottom:7px}
-.list_item.lists_1 .list_left{-webkit-border-radius:5px;border-radius:5px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-shadow:inset 0 0 5px 0 rgba(0,0,0,.1);box-shadow:inset 0 0 5px 0 rgba(0,0,0,.1)}
+.list_item.lists_1 .list_left{-webkit-border-radius:5px;border-radius:5px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-shadow:inset 0 0 5px 0 rgba(0,0,0,.1);box-shadow:inset 0 0 5px 0 rgba(0,0,0,.1)}
 .list_item.lists_1 .list_image{width:60px;height:60px;line-height:60px;padding:10px;font-size:0}
 .list_item.lists_1 .list_left img{max-width:60px!important;max-height:60px!important}
 .list_item.lists_3 .list_left{float:none;margin-bottom:10px}
@@ -3857,7 +3857,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 	.offer_thumb .slider_pagination li a{display:block;box-sizing:content-box;margin:0;width:85px;height:85px;line-height:85px;text-align:center;padding:8px;text-indent:0;border-bottom-width:1px;border-style:solid;border-radius:0;-webkit-border-radius:0;background-color:#fff}
 	.offer_thumb .slider_pagination li a img{vertical-align:middle}
 
-	.offer_thumb .slider_pagination li.slick-active a{top:0;background-color:#fff;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
+	.offer_thumb .slider_pagination li.slick-active a{top:0;background-color:#fff;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
 	.offer_thumb .slider_pagination li:not(.slick-active) a:hover img{opacity:.6}
 
 	body:not(.style-simple) .offer_thumb:not(.bottom) .slider_pagination li:last-child a{border:0}
@@ -3947,7 +3947,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 
 .blog-teaser li .desc-wrapper{position:absolute;left:0;bottom:-20px;width:100%;z-index:4;transition:all 0.4s ease-out;}
 .blog-teaser li:hover .desc-wrapper{transform:translateY(-20px);}
-.blog-teaser li .desc-wrapper .desc{background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/blog_masonry_tile_gradient.png) top left repeat-x;padding:70px 25px 30px;}
+.blog-teaser li .desc-wrapper .desc{background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/blog_masonry_tile_gradient.png) top left repeat-x;padding:70px 25px 30px;}
 
 .blog-teaser li .desc-wrapper .desc .post-meta .author .label{display:none;}
 .blog-teaser li .desc-wrapper .desc .post-meta .comments{margin-left:5px;}
@@ -4095,7 +4095,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 .icon_box.has_border:after{content:"";display:block;width:0;height:100%;border-width:0 1px 0 0;border-style:solid;position:absolute;right:-2.4%;top:0}
 .icon_box a{display:block}
 .icon_box a:hover{text-decoration:none}
-.icon_box .icon_wrapper{box-sizing:unset;width:110px;height:110px;font-size:50px;position:relative;overflow:hidden;margin:0 auto 15px;border-width:8px;border-style:solid;display:flex;align-items:center;justify-content:center;-webkit-border-radius:100%;border-radius:100%;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);background-clip: content-box;-webkit-background-clip: content-box;}
+.icon_box .icon_wrapper{box-sizing:unset;width:110px;height:110px;font-size:50px;position:relative;overflow:hidden;margin:0 auto 15px;border-width:8px;border-style:solid;display:flex;align-items:center;justify-content:center;-webkit-border-radius:100%;border-radius:100%;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);background-clip: content-box;-webkit-background-clip: content-box;}
 .icon_box .icon_wrapper i{z-index:2;position:relative}
 .icon_box .icon_wrapper:before{content:"";display:block;width:100%;height:100%;position:absolute;left:0;top:0;-webkit-border-radius:100%;border-radius:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 .icon_box .icon_wrapper{background-color:#fff;-webkit-box-shadow:inset 0 0 7px 0 rgba(0,0,0,.08), 0px 0px 0px 1px red inset;box-shadow:inset 0 0 7px 0 rgba(0,0,0,.08), 0px 0px 0px 1px rgba(0,0,0,.05) inset;}
@@ -4125,7 +4125,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 .article_box a{display:flex;width:100%}
 .article_box a:hover{text-decoration:none}
 .article_box .photo_wrapper{float:left;width:50%;line-height:0}
-.article_box .desc_wrapper{display:flex;flex-direction:column;justify-content:center;width:50%;padding:10px 15px;background-color:#f8f8f8;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+.article_box .desc_wrapper{display:flex;flex-direction:column;justify-content:center;width:50%;padding:10px 15px;background-color:#f8f8f8;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 .article_box .desc_wrapper p{margin-bottom:10px;border-bottom-width:1px;border-style:solid;padding-bottom:7px}
 .article_box .desc_wrapper h4{margin-bottom:5px}
 .article_box .desc_wrapper i.icon-right-open{color:var(--mfn-article-box-decoration);display:block;position:relative;left:-5px}
@@ -4191,7 +4191,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 /* counter */
 
 .counter{padding:20px;text-align:center;position:relative}
-.column_counter .mcb-item-counter-inner {background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_b.png);}
+.column_counter .mcb-item-counter-inner {background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_b.png);}
 .counter .icon_wrapper{margin-bottom:15px;line-height:0;width:100%}
 .counter .icon_wrapper i:before{margin:0}
 .counter .icon_wrapper i{display:inline-block;width:50px;height:50px;line-height:50px;font-size:50px}
@@ -4205,7 +4205,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 /* chart_box */
 
 .chart_box{position:relative;text-align:center}
-.chart_box:before{content:"";display:block;z-index:2;width:138px;height:138px;border-width:1px;border-style:solid;position:absolute;left:50%;margin-left:-69px;top:1px;-webkit-border-radius:100%;border-radius:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:#fff;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
+.chart_box:before{content:"";display:block;z-index:2;width:138px;height:138px;border-width:1px;border-style:solid;position:absolute;left:50%;margin-left:-69px;top:1px;-webkit-border-radius:100%;border-radius:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:#fff;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
 .chart_box .chart{width:140px;margin:0 auto 10px;position:relative}
 .chart_box .chart canvas{position:relative;z-index:2}
 .chart_box .chart .icon,.chart_box .chart .image,.chart_box .chart .num{width:100%;height:100%;display:flex;justify-content:center;align-items:center;overflow:hidden;position:absolute;left:0;top:0;z-index:3;}
@@ -4248,7 +4248,7 @@ body.table-hover:not(.woocommerce-page) table tr:hover td{-webkit-transition:all
 .trailer_box .desc{position:absolute;left:0;bottom:0;z-index:2;width:100%;padding:20px 15px 35px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 .trailer_box .desc h2{margin:0;position:relative;bottom:0;font-size:30px;line-height:30px}
 .trailer_box:hover .desc h2{bottom:20px}
-.trailer_box .desc .subtitle{display:inline-block;position:relative;bottom:0;line-height:normal;letter-spacing:1px;padding:4px 8px;text-transform:uppercase;margin-bottom:15px;-webkit-border-radius:3px;border-radius:3px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
+.trailer_box .desc .subtitle{display:inline-block;position:relative;bottom:0;line-height:normal;letter-spacing:1px;padding:4px 8px;text-transform:uppercase;margin-bottom:15px;-webkit-border-radius:3px;border-radius:3px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_w.png)}
 .trailer_box:hover .desc .subtitle{bottom:20px}
 .trailer_box .desc .line{height:1px;width:0;margin:0 auto;background:#fff;overflow:hidden;display:block}
 .trailer_box:hover .desc .line{width:60%}
@@ -4374,12 +4374,12 @@ a.content_link:after{content:"";z-index:2;opacity:0;height:0;width:100%;border-w
 a.content_link:before{content:"";z-index:2;opacity:0;position:absolute;left:50%;bottom:-1px;margin-left:-6px;width:0;height:0;border-style:solid;border-width:0 6px 6px;border-color:transparent}
 a:hover.content_link:after{opacity:100}
 a:hover.content_link:before{opacity:100}
-a:hover.content_link{text-decoration:none;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
+a:hover.content_link{text-decoration:none;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
 a.content_link:after,a.content_link:before{-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}
 
 /* icon_bar */
 
-a.icon_bar{display:inline-block;overflow:hidden;text-align:center;margin:0 2px 2px 0;border-width:1px;border-style:solid;position:relative;background-color:#fff;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08);box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08)}
+a.icon_bar{display:inline-block;overflow:hidden;text-align:center;margin:0 2px 2px 0;border-width:1px;border-style:solid;position:relative;background-color:#fff;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);-webkit-box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08);box-shadow:inset 0 0 5px 0 rgba(0,0,0,.08)}
 a.icon_bar span{display:block}
 a.icon_bar,a.icon_bar span{width:58px;height:58px;line-height:58px;font-size:20px}
 a.icon_bar_small,a.icon_bar_small span{width:43px;height:43px;line-height:43px;font-size:15px}
@@ -4434,7 +4434,7 @@ a.icon_bar_instagram span.b{background:#e13967;color:#fff}
 .opening_hours .opening_hours_wrapper ul{margin:0}
 .opening_hours .opening_hours_wrapper li{position:relative;padding-bottom:15px;margin-bottom:15px;text-align:center;border-bottom-width:1px;border-style:dashed;list-style:none}
 .opening_hours .opening_hours_wrapper li:last-child{border:0;padding-bottom:0;margin-bottom:0}
-.opening_hours .opening_hours_wrapper li label{margin-bottom:8px;font-size:12px;line-height:18px;display:inline-block;font-weight:400;padding:5px 11px;-webkit-border-radius:4px;border-radius:4px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);background-color:#f8f8f8}
+.opening_hours .opening_hours_wrapper li label{margin-bottom:8px;font-size:12px;line-height:18px;display:inline-block;font-weight:400;padding:5px 11px;-webkit-border-radius:4px;border-radius:4px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png);background-color:#f8f8f8}
 .opening_hours .opening_hours_wrapper li span{font-size:22px;line-height:22px;margin:0;padding:0 14px;display:block}
 .opening_hours .opening_hours_wrapper li span sup{font-size:13px;line-height:13px;position:relative;top:4px;margin-left:2px}
 
@@ -4444,10 +4444,10 @@ a.icon_bar_instagram span.b{background:#e13967;color:#fff}
 
 /* timeline_items */
 
-.timeline_items{margin:0!important;position:relative;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_top.png) no-repeat top center;padding-top:9px;box-sizing:content-box}
+.timeline_items{margin:0!important;position:relative;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_top.png) no-repeat top center;padding-top:9px;box-sizing:content-box}
 .timeline_items:after{content:"";width:0;height:0;border-width:3px;border-style:solid;-webkit-border-radius:100%;border-radius:100%;position:absolute;left:50%;bottom:-10px;margin-left:-3px;display:block;z-index:1}
-.timeline_items > li{margin:0!important;list-style:none!important;width:45%;padding:0 0 25px 55%;position:relative;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_right.png) no-repeat top center}
-.timeline_items > li:nth-child(even){padding:0 55% 25px 0;background:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_left.png) no-repeat top center}
+.timeline_items > li{margin:0!important;list-style:none!important;width:45%;padding:0 0 25px 55%;position:relative;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_right.png) no-repeat top center}
+.timeline_items > li:nth-child(even){padding:0 55% 25px 0;background:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/timeline_left.png) no-repeat top center}
 
 .timeline_items > li h3{font-size:30px;line-height:35px}
 .timeline_items > li h3 span{position:absolute;right:55%;top:8px;}
@@ -4457,7 +4457,7 @@ a.icon_bar_instagram span.b{background:#e13967;color:#fff}
 
 .timeline_items > li .desc{position:relative;font-size:15px;line-height:31px;}
 body:not(.style-simple) .timeline_items > li .desc { text-decoration: underline; text-decoration-color: rgba(0,0,0,.1); text-underline-offset: 8px; text-decoration-thickness: 1px; }
-.timeline_items > li .desc:before{content:"";width:100%;height:100%;position:absolute;left:-122%;top:0;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_b.png)}
+.timeline_items > li .desc:before{content:"";width:100%;height:100%;position:absolute;left:-122%;top:0;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_10_b.png)}
 .timeline_items > li:nth-child(even) .desc:before{left:auto;right:-122%}
 .timeline_items > li:nth-child(even) .desc{text-align:right}
 
@@ -4548,7 +4548,7 @@ body:not(.style-simple) .timeline_items > li .desc { text-decoration: underline;
 .fancy_heading .title{font-size:42px;line-height:42px}
 .fancy_heading_icon .icon_top{font-size:50px;line-height:50px;margin-bottom:15px;overflow:hidden;display:block}
 .fancy_heading_icon .icon_top i:before{margin:0}
-.fancy_heading_line{background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/fancy_heading_hr.png);background-position:bottom center;background-repeat:no-repeat;padding-bottom:15px}
+.fancy_heading_line{background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/fancy_heading_hr.png);background-position:bottom center;background-repeat:no-repeat;padding-bottom:15px}
 .fancy_heading_line .slogan{display:block;margin-bottom:7px;text-transform:uppercase;letter-spacing:1px;font-size:14px}
 .fancy_heading_line .inside{margin-bottom:15px}
 
@@ -4847,7 +4847,7 @@ ul.portfolio_grid li .image_frame{border:0;margin:0}
 
 /* Date */
 
-.date_label,.timeline_items > li h3 span{font-size:12px;line-height:18px;display:inline-block;padding:2px 5px;-webkit-border-radius:4px;border-radius:4px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
+.date_label,.timeline_items > li h3 span{font-size:12px;line-height:18px;display:inline-block;padding:2px 5px;-webkit-border-radius:4px;border-radius:4px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/stripes/stripes_3_b.png)}
 .date_label:after,.timeline_items > li h3 span:after{content:"";display:block;position:absolute;right:-5px;top:6px;width:0;height:0;border-style:solid;border-width:5.5px 0 5.5px 5px;border-color:transparent}
 
 .date_label {background-color:#f8f8f8;color:#a8a8a8}
@@ -5076,7 +5076,7 @@ a.icon_bar{color:#444;}
 .ui-helper-clearfix{zoom:1}
 
 .ui-tabs{position:relative;overflow:hidden;zoom:1;margin-bottom:15px;background:none!important;border-radius:5px;border-style:solid;border-width:var(--mfn-tabs-border-width);border-color: var(--mfn-tabs-border-color);}
-.ui-tabs .ui-tabs-nav{display:block;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/bg_panel.png);background-repeat:repeat-x;background-position:left top;border-style:solid;border-width:0 0 var(--mfn-tabs-border-width);border-color: var(--mfn-tabs-border-color);margin:0;padding:0;}
+.ui-tabs .ui-tabs-nav{display:block;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/bg_panel.png);background-repeat:repeat-x;background-position:left top;border-style:solid;border-width:0 0 var(--mfn-tabs-border-width);border-color: var(--mfn-tabs-border-color);margin:0;padding:0;}
 .ui-tabs .ui-tabs-nav li{list-style:none;float:left;position:relative;white-space:nowrap;border-style:solid;border-width:0 var(--mfn-tabs-border-width) 0 0;border-color: var(--mfn-tabs-border-color);margin:0;padding:0}
 .ui-tabs .ui-tabs-nav li a{text-decoration:none;display:block;font-size:13px;font-weight:700;padding:14px 30px;}
 .ui-tabs .ui-tabs-nav li a i{margin-right:4px}
@@ -5084,7 +5084,7 @@ a.icon_bar{color:#444;}
 .ui-tabs .ui-tabs-nav li.ui-tabs-selected a,.ui-tabs .ui-tabs-nav li.ui-state-disabled a,.ui-tabs .ui-tabs-nav li.ui-state-processing a,.ui-tabs .ui-tabs-nav li.ui-state-active a{cursor:text}
 .ui-tabs .ui-tabs-nav li.ui-tabs-selected a:after,.ui-tabs .ui-tabs-nav li.ui-state-disabled a:after,.ui-tabs .ui-tabs-nav li.ui-state-processing a:after,.ui-tabs .ui-tabs-nav li.ui-state-active a:after{content:"";display:block;height:var(--mfn-tabs-border-width);width:80%;position:absolute;left:50%;margin-left:-40%;top:100%;z-index:2}
 .ui-tabs .ui-tabs-nav li a,.ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a{cursor:pointer}
-.ui-tabs .ui-tabs-panel{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/box_shadow.png);background-repeat:repeat-x;background-position:left top;border-width:0;padding:15px 20px 20px;margin:0;overflow:hidden;}
+.ui-tabs .ui-tabs-panel{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/box_shadow.png);background-repeat:repeat-x;background-position:left top;border-width:0;padding:15px 20px 20px;margin:0;overflow:hidden;}
 .ui-tabs .ui-tabs-panel p:last-child{margin-bottom:0}
 
 .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab.ui-tabs-panel{background-color:#fff}
@@ -5102,7 +5102,7 @@ a.icon_bar{color:#444;}
 	.tabs_vertical.ui-tabs .ui-tabs-nav li{float:none;width:100%;white-space:normal;border-width:0 0 var(--mfn-tabs-border-width)}
 	.tabs_vertical.ui-tabs .ui-tabs-nav li:first-child a{-webkit-border-radius:5px 0 0 0!important;border-radius:5px 0 0 0!important}
 	.tabs_vertical.ui-tabs .ui-tabs-nav li:last-child{border-bottom:0!important}
-	.tabs_vertical.ui-tabs .ui-tabs-nav li a{float:none;line-height:18px;height:auto;padding-left:20px;padding-right:20px;background-image:url(/https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/bg_panel.png);background-repeat:repeat-x;background-position:left top}
+	.tabs_vertical.ui-tabs .ui-tabs-nav li a{float:none;line-height:18px;height:auto;padding-left:20px;padding-right:20px;background-image:url(https://yanikundr.github.io/improvsite//wp-content/themes/betheme_v26/images/bg_panel.png);background-repeat:repeat-x;background-position:left top}
 	.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-tabs-selected a,.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-state-active a{background-image:none}
 	.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-tabs-selected a:after,.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-state-disabled a:after,.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-state-processing a:after,.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-state-active a:after{display:none}
 	.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-tabs-selected:after,.tabs_vertical.ui-tabs .ui-tabs-nav li.ui-state-active:after{content:"";display:block;height:100%;width:1px;position:absolute;left:auto;right:-1px;top:0;z-index:1}
