@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Actors &#8212; Improvsite</title>
-	<atom:link href="/https://yanikundr.github.io/improvsite//category/actors/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yanikundr.github.io/improvsite//category/actors/feed/" rel="self" type="application/rss+xml" />
 	<link>/https://yanikundr.github.io/improvsite/</link>
 	<description></description>
 	<lastBuildDate>Sun, 15 Oct 2023 11:47:28 +0000</lastBuildDate>
