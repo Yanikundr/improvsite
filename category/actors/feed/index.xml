@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Actors &#8212; Improvsite</title>
+	<atom:link href="/https://yanikundr.github.io/improvsite//category/actors/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://yanikundr.github.io/improvsite/</link>
+	<description></description>
+	<lastBuildDate>Sun, 15 Oct 2023 11:47:28 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Антон Шастун</title>
+		<link>/https://yanikundr.github.io/improvsite//2023/10/10/%d0%b0%d0%bd%d1%82%d0%be%d0%bd-%d1%88%d0%b0%d1%81%d1%82%d1%83%d0%bd/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 07:49:56 +0000</pubDate>
+				<category><![CDATA[Actors]]></category>
+		<guid isPermaLink="false">/https://yanikundr.github.io/improvsite//?p=110</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Сергей Матвиенко</title>
+		<link>/https://yanikundr.github.io/improvsite//2023/10/10/%d1%81%d0%b5%d1%80%d0%b3%d0%b5%d0%b9-%d0%bc%d0%b0%d1%82%d0%b2%d0%b8%d0%b5%d0%bd%d0%ba%d0%be/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 07:49:26 +0000</pubDate>
+				<category><![CDATA[Actors]]></category>
+		<guid isPermaLink="false">/https://yanikundr.github.io/improvsite//?p=111</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Дмитрий Позов</title>
+		<link>/https://yanikundr.github.io/improvsite//2023/10/10/%d0%b4%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9-%d0%bf%d0%be%d0%b7%d0%be%d0%b2/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 07:48:52 +0000</pubDate>
+				<category><![CDATA[Actors]]></category>
+		<guid isPermaLink="false">/https://yanikundr.github.io/improvsite//?p=112</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Арсений Попов</title>
+		<link>/https://yanikundr.github.io/improvsite//2023/10/10/%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9-%d0%bf%d0%be%d0%bf%d0%be%d0%b2/</link>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Tue, 10 Oct 2023 07:37:03 +0000</pubDate>
+				<category><![CDATA[Actors]]></category>
+		<guid isPermaLink="false">/https://yanikundr.github.io/improvsite//?p=107</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
